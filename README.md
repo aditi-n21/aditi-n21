@@ -5,13 +5,13 @@
 💬 Ask me about IOT,ARDUINO,NODEMCU,Frontend Tech.<br>
 🤔 I’m looking for help with Backend Technology.<br>
 
-**Languages and Tools:**  
+
 
 
 
 <!--
 **aditi-n21/aditi-n21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**Languages and Tools:**  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Declopment...
