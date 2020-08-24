@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on Web Declopment. <br>
+🔭 I’m currently working on Web Development. <br>
 🌱 I’m currently learning Node.js <br>
 📫 How to reach me: aditinaithani21@gmail.com <br>
 💬 Ask me about IOT,ARDUINO,NODEMCU,Frontend Technology.<br>
