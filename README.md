@@ -2,7 +2,7 @@
 🔭 I’m currently working on Web Dev. <br>
 🌱 I’m currently learning Node.js <br>
 📫 How to reach me: aditi893@yahoo.com <br>
-💬 Ask me about IOT,ARDUINO,NODEMCU,Frontend Tech.<br>
+💬 Ask me about IOT,Arduino,NodeMCU,Frontend Tech.<br>
 🤔 I’m looking for help with Backend Technology.<br>
 
 
