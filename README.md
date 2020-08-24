@@ -1,8 +1,8 @@
 ### Hi there 👋
-🔭 I’m currently working on Web Development. <br>
+🔭 I’m currently working on Web Dev. <br>
 🌱 I’m currently learning Node.js <br>
-📫 How to reach me: aditinaithani21@gmail.com <br>
-💬 Ask me about IOT,ARDUINO,NODEMCU,Frontend Technology.<br>
+📫 How to reach me: aditi893@yahoo.com <br>
+💬 Ask me about IOT,ARDUINO,NODEMCU,Frontend Tech.<br>
 🤔 I’m looking for help with Backend Technology.<br>
 
 <!--
