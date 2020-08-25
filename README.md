@@ -4,7 +4,12 @@
 📫 How to reach me: aditi893@yahoo.com <br>
 💬 Ask me about IOT,Arduino,NodeMCU,Frontend Tech.<br>
 🤔 I’m looking for help with Backend Technology.<br>
-
+<a href="https://github.com/aditi-n21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-n21&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/aditi-n21">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-n21&show_icons=true&theme=light&line_height=27"/>
+</a>
 
 
 
@@ -26,10 +31,5 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/aditi-n21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-n21&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/aditi-n21">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-n21&show_icons=true&theme=light&line_height=27"/>
-</a>
+
 -->
