@@ -4,6 +4,7 @@
 📫 How to reach me: aditi893@yahoo.com <br>
 💬 Ask me about IOT,Arduino,NodeMCU,Frontend Tech.<br>
 🤔 I’m looking for help with Backend Technology.<br>
+⚡ Fun fact:Can mostly be found doing development or reading books.
 
 
 
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me:...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ ...
 
 
 <a href="https://github.com/aditi-n21">
