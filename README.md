@@ -1,10 +1,15 @@
 ### Hi there 👋
-🔭 I’m currently working on Web Dev. <br>
-🌱 I’m currently learning Node.js <br>
-📫 How to reach me: aditi893@yahoo.com <br>
-💬 Ask me about IOT,Arduino,NodeMCU,Frontend Tech.<br>
-🤔 I’m looking for help with Backend Technology.<br>
-⚡ Fun fact:Can mostly be found doing development or reading books.
+- 🔭 I’m currently working on Web Dev. <br>
+
+- 🌱 I’m currently learning Node.js <br>
+
+- 📫 How to reach me: aditi893@yahoo.com <br>
+
+- 💬 Ask me about IOT,Arduino,NodeMCU,Frontend Tech.<br>
+
+- 🤔 I’m looking for help with Backend Technology.<br>
+
+- ⚡ Fun fact:Can mostly be found doing development or reading books.
 
 
 
