@@ -9,7 +9,7 @@
 
 - 🤔 I’m looking for help with Backend Technology.<br>
 
-- ⚡ Fun fact:Can mostly be found doing development or reading books.
+- ⚡ Fun fact:Can mostly be found doing Development or Reading Books.
 
 
 
