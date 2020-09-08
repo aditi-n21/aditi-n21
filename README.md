@@ -1,11 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Web Dev. <br>
+- 🔭 I’m currently working on <strong>Web Development.</strong> <br>
 
-- 🌱 I’m currently learning Node.js <br>
+- 🌱 I’m currently learning <strong>Node.js</strong> <br>
 
 - 📫 How to reach me: aditi893@yahoo.com <br>
 
-- 💬 Ask me about IOT,Arduino,NodeMCU,Frontend Tech.<br>
+- 💬 Ask me about <strong>IOT,Arduino,NodeMCU,Frontend Tech.</strong><br>
 
 - 🤔 I’m looking for help with Backend Technology.<br>
 
@@ -19,8 +19,8 @@
 **Languages and Tools:**  
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web Declopment...
-- 🌱 I’m currently learning Node.js...
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
