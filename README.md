@@ -11,12 +11,6 @@
 
 - ⚡ Fun fact:Can mostly be found doing Development or Reading Novels.
 
-
-
-<br>
-<a href="https://github.com/aditi-n21">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-n21&show_icons=true&theme=light&line_height=27"/>
-</a>
 <!--
 **aditi-n21/aditi-n21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **Languages and Tools:**  
