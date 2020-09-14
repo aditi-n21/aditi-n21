@@ -15,11 +15,11 @@
 📊 **This week I spent my time on**
 
 ```text
-JavaScript      ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-DSA             █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-HTML            ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-CSS             ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Firebase        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+JavaScript      ███████░░░░░░░░░░░░░░░░░░   37.49 % 
+DSA             █████░░░░░░░░░░░░░░░░░░░░   23.49 % 
+HTML            ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+CSS             ███▒░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Firebase        ██▒░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
 ```
 
 **Languages and Tools**
@@ -32,7 +32,7 @@ Firebase        ██▒░░░░░░░░░░░░░░░░░░�
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
+<ceter> <img src="https://github-readme-stats.vercel.app/api?username=aditi-n21&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!--
 **aditi-n21/aditi-n21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,10 +41,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/aditi-n21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-n21&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/aditi-n21">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-n21&show_icons=true&theme=light&line_height=27"/>
-</a>
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -53,14 +51,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me:...
 - 😄 Pronouns: ...
  ...
+ -->
 
-
-<a href="https://github.com/aditi-n21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-n21&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/aditi-n21">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-n21&show_icons=true&theme=light&line_height=27"/>
-</a>
-
-
--->
